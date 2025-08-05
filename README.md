@@ -1,10 +1,5 @@
 # LiftKaro - React Native Developer Assessment
 
-## 📱 Live Demo
-**Expo Development Build**: [Scan QR Code or Open Link]
-- **Expo Go Link**: `exp://exp.host/@yourusername/liftkaro-app`
-- **Development Build URL**: `https://expo.dev/@yourusername/liftkaro-app`
-
 ## 🎯 Assessment Overview
 This project is a comprehensive React Native mobile application built for the **React Native Developer Assessment Task**. It demonstrates advanced implementation with navigation, API integration, maps functionality, theme management, and modern UI/UX principles using Expo framework.
 
