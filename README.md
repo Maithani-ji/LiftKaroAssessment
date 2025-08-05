@@ -27,7 +27,7 @@ This project is a comprehensive React Native mobile application built for the **
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/liftkaro-assessment.git
+git clone "repo url from code"
 cd liftkaro-assessment
 
 # Install dependencies
