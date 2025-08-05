@@ -58,7 +58,7 @@ yarn start
    npx expo start --android
    ```
    
-## 📹 Demo
+## 📹 Demo And APK
 
 <video src="https://user-images.githubusercontent.com/138321238/474437400-6d875d53-91c8-4f40-bb08-09a7af0bb45e" controls width="600">
   Your browser does not support the video tag.  
@@ -66,6 +66,7 @@ yarn start
 
 👉 If the video doesn't load, [click here to view it in the GitHub Issue](https://github.com/Maithani-ji/LiftKaroAssessment/issues/1).
 
+Apk Build, [click here to view the apk build](https://expo.dev/accounts/maithaniji/projects/LiftKaro/builds/7750ee41-ea3f-4671-8a9d-43f12e87d7a5).
 ## 🎨 Features Implemented
 
 ### Advanced Architecture
